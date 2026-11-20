@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-clipper-01/wwwmrleee-cloud/gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 [![reward](https://make.fun/badge/gta6-clipper-01/wwwmrleee-cloud/gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
-A vertical GTA 6 clip for make.fun's "Clip GTA 6 for the most YouTube views" bounty ($500, top 20 by YouTube views). The clip is one moment from Rockstar's GTA 6 Trailer 2: Lucia walks out of Leonida Penitentiary, Jason waiting by the car (63.5–66.0s and 66.5–69.2s), per-shot reframed to 1080×1920 as a YouTube Short. Then it turns to the viewer and pitches make.fun on screen: "Make clips like this with AI and earn money on make.fun — make.fun/bounty/gta6-clipper-01". The video is public on YouTube on the channel 李云龙 (@李云龙-i7b), and its description carries the bounty's line and the entrant's play code.
+A vertical GTA 6 clip for make.fun's "Clip GTA 6 for the most YouTube views" bounty ($500, top 20 by YouTube views). The clip is one moment from Rockstar's GTA 6 Trailer 2: Lucia walks out of Leonida Penitentiary, Jason waiting by the car (63.5–66.0s and 66.5–69.2s), per-shot reframed to 1080×1920 as a YouTube Short. Then it turns to the viewer and pitches make.fun on screen: "Make clips like this with AI and earn money on make.fun — make.fun/bounty/gta6-clipper-01". The video is public on YouTube on the channel 李云龙 GTA (@李云龙GTA), and its description carries the bounty's line and the entrant's play code.
 
 make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win.
 
